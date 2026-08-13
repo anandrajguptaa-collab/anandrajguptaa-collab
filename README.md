@@ -10,4 +10,5 @@ Here is a little bit about me:
 - ⚡ Fun fact: I love exploring new developer tools and optimizing my workflow!
 
 ### 🛠️ Languages & Tools:
-* Python, HTML/CSS, C++ (Add or remove based on your actual skills)
+* Python, HTML/CSS, C,C++
+  
