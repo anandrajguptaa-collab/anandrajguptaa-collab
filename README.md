@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--## Hi there, I'm Anand Raj Gupta! 👋
+## Hi there, I'm Anand Raj Gupta! 👋
 
 I am a passionate **Computer Science & Engineering** student exploring the world of tech and software development. 
 
