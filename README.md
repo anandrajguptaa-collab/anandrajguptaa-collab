@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**anandrajguptaa-collab/anandrajguptaa-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## Hi there, I'm Anand Raj Gupta! 👋
 
-Here are some ideas to get you started:
+I am a passionate **Computer Science & Engineering** student exploring the world of tech and software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a little bit about me:
+
+- 🔭 I’m currently focusing on honing my skills in **Python** and **Artificial Intelligence**.
+- 🌱 I’m always eager to learn new technologies and build interesting projects.
+- 👯 I’m looking to collaborate on open-source projects or beginner-friendly AI applications.
+- 📫 How to reach me: [Your LinkedIn Profile Link Here]
+- ⚡ Fun fact: I love exploring new developer tools and optimizing my workflow!
+
+### 🛠️ Languages & Tools:
+* Python, HTML/CSS, C++ (Add or remove based on your actual skills)
